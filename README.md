@@ -1,4 +1,11 @@
+# 최혁진
+
 ### Hi there 👋
+ 
+## 프론트엔드 개발자
+
+- 
+
 
 <!--
 **Codezzzz/Codezzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +28,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://t1.daumcdn.net/cfile/tistory/9936C23C5C6CBB7E1F"></code>
 
 
 
