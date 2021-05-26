@@ -1,12 +1,11 @@
 # 최혁진
 
 ### Hi there 👋
- 
-## 프론트엔드 개발자
+  
+- 현재 와이즈넛에서 프론트엔드 개발자로 일하고 있습니다.
 
-- 
-
-
+### 😄 궁금하신게 있으시다면 연락주세요! 💬
+  - 📫 <a href="mailto:chlgurwls137@gmail.com">Gmail</a>
 <!--
 **Codezzzz/Codezzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
