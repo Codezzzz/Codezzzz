@@ -2,7 +2,6 @@
 
 ### Hi there 👋
   
-- 현재 와이즈넛에서 프론트엔드 개발자로 일하고 있습니다.
 
 ### 😄 궁금하신게 있으시다면 연락주세요! 💬
   - 📫 <a href="mailto:chlgurwls137@gmail.com">Gmail</a>
